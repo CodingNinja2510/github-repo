@@ -1,0 +1,4 @@
+git version   ->  To check the installed version of GIT.
+pwd -> check current working directory.
+git clone <repository path> -> Clone the repository.
+git status  -> check the status of repository
